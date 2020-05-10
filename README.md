@@ -15,12 +15,12 @@ Twitter bots are automated user accounts that interact with Twitter using an app
 # How do I detect a bot?
 Now you know what a bot is, but the bigger question is would you know a bot if you encountered one? Depending on the level of stealth employed by a bot, some are easier to detect than others.
 
->>Some typical characteristics of bots on Twitter include:
->>Many Twitter bots have a relatively recent creation date.
->>Many bot user names contain numbers, which can indicate automatic name generation.
->>The account primarily retweets content, rather than tweeting original content.
->>The account’s tweet frequency is higher than a human user could feasibly achieve.
->>The account may have a high number of followers and also be following a lot of accounts; conversely, some bot accounts are identifiable because they send a lot of tweets but only have a few followers.
->>Many bots tweet the same content as other users at roughly the same time. 
->>Short replies to other tweets can also indicate automated behavior.
->>There is often no biography, or indeed a photo, associated with bot Twitter accounts.
+>> Some typical characteristics of bots on Twitter include:
+>> Many Twitter bots have a relatively recent creation date.
+>> Many bot user names contain numbers, which can indicate automatic name generation.
+>> The account primarily retweets content, rather than tweeting original content.
+>> The account’s tweet frequency is higher than a human user could feasibly achieve.
+>> The account may have a high number of followers and also be following a lot of accounts; conversely, some bot accounts are identifiable because they send a lot of tweets but only have a few followers.
+>> Many bots tweet the same content as other users at roughly the same time. 
+>> Short replies to other tweets can also indicate automated behavior.
+>> There is often no biography, or indeed a photo, associated with bot Twitter accounts.
