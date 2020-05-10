@@ -24,3 +24,6 @@ Now you know what a bot is, but the bigger question is would you know a bot if y
 * Many bots tweet the same content as other users at roughly the same time. 
 * Short replies to other tweets can also indicate automated behavior.
 * There is often no biography, or indeed a photo, associated with bot Twitter accounts.
+
+## Dependencies
+Python 3, Pandas, Numpy, Seaborn, MatplotLib, Sklearn
